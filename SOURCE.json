@@ -1,0 +1,32 @@
+{
+  "article": "https://monero.love/guides/how-we-use-freebsd-jails-for-monerod/",
+  "recorded_at_utc": "2026-11-21T18:16:04.578385+00:00",
+  "source_kind": "live published HTML",
+  "article_html_sha256": "7b4274004324d4e8a2ddf0e32ece3eccfec3ecc304d184b1aac096a6bc0fcc6a",
+  "files": {
+    ".gitignore": {
+      "sha256": "58c2ae86583b93c1ae764f01f77a50f0e76673b84c8fe387c7c70c8061056e7e"
+    },
+    "ARTICLE-EXAMPLES.md": {
+      "sha256": "4ee75c78bdc3079e36055862b042b2b023e0a1ce4c90284bbc8f5df43bacf4d3"
+    },
+    "README.md": {
+      "sha256": "3ede97169601a322bcab277019f528d7745101700019738c82c584e74133f7c3"
+    },
+    "VALIDATION.md": {
+      "sha256": "6ac328602439708838d611796dde0d70e2b5e69742de074794789540fec181b5"
+    },
+    "host/pf.fragment.conf": {
+      "sha256": "bf4c450ad073bf558d260d35e8585ea1497a92ff906291089f38b67ba902394f"
+    },
+    "host/sysctl.fragment.conf": {
+      "sha256": "66bb4be27425f85b8c4ef95b417a63d415d83b85e454bc8261d2252708af3548"
+    },
+    "jail/rc.conf.fragment": {
+      "sha256": "fdafc3777d242a74e502af0d82f00caefa87aea7855fa6b0c9991eaf21ba1ee5"
+    },
+    "pkg/monero-love.conf": {
+      "sha256": "0bc51107dd7a0788446e10dae7b30a900c102f6a7c9f9940ffd41c6a1f4649b7"
+    }
+  }
+}
